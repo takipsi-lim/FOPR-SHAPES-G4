@@ -14,4 +14,5 @@ int main()
     char user_in;
 
     printf("Enter: ");
+    scanf("%s", &user_in);
 }
