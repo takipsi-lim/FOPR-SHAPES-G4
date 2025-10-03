@@ -20,5 +20,7 @@ below po state your username (Account Name). For formality para malaman natin si
 #include <stdio.h>
 int main()
 {
-    //Code
+    char user_input;
+
+    printf("Enter Character: ");
 }
