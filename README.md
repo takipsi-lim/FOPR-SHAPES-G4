@@ -2,8 +2,8 @@
 Educational Purposes only
 
 Members:
-Gloria, Limuel
-Mariano, Prince
-Sakai, Tatsuya
-Lorenzo, Lexis
+Gloria, Limuel |
+Mariano, Prince |
+Sakai, Tatsuya |
+Lorenzo, Lexis |
 Almoguera, John
