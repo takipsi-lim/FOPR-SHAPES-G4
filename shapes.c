@@ -11,5 +11,7 @@
 #include <stdio.h>
 int main()
 {
-    //code here
+    char user_in;
+
+    printf("Enter: ");
 }
